@@ -20,7 +20,7 @@ The goal is to extract actionable insights and visualize content patterns on Net
 ---
 
 ## 📁 Dataset
-
+⚠️ Note: The dataset is not included in this repository due to size/licensing reasons.
 - Source: [Kaggle - Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 - Rows: 8,807
 - Columns: 12 (title, cast, director, release year, rating, genre, country, etc.)
@@ -55,9 +55,6 @@ The goal is to extract actionable insights and visualize content patterns on Net
 - **Top countries**: USA, India, UK, Japan
 - **Ratings**: Movies are mostly TV-MA and R-rated; TV shows are more family-friendly
 - **Actors**: Several actors have frequent appearances across formats
-
----
-
 
 ---
 
