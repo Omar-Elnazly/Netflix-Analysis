@@ -59,5 +59,14 @@ The goal is to extract actionable insights and visualize content patterns on Net
 ---
 
 ## 📂 Project Structure
+Netflix-EDA/
+│
+├── data/
+│   └── netflix_titles.csv
+├── notebook/
+│   └── main_notebook.ipynb
+├── images/ (optional)
+│   └── [charts or plots if exported]
+├── README.md
 
 
