@@ -58,15 +58,14 @@ The goal is to extract actionable insights and visualize content patterns on Net
 
 ---
 
-## 📂 Project Structure
-Netflix-EDA/
-│
-├── data/
-│   └── netflix_titles.csv
-├── notebook/
-│   └── main_notebook.ipynb
-├── images/ (optional)
-│   └── [charts or plots if exported]
-├── README.md
+
+---
+
+## ▶️ Run Locally
+
+1. Clone the repository:
+   ```bash
+   git clone https://github.com/yourusername/netflix-eda.git
+   cd netflix-eda
 
 
