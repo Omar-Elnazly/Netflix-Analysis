@@ -65,4 +65,9 @@ The goal is to extract actionable insights and visualize content patterns on Net
    git clone https://github.com/yourusername/netflix-eda.git
    cd netflix-eda
 
+---
+## ⭐️ Give a Star!
+
+If you found this project helpful or interesting, feel free to ⭐️ star this repository — it helps others discover it too!
+
 
