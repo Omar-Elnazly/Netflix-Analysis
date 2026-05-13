@@ -1,4 +1,4 @@
-# 📺 Netflix Movies and TV Shows Analysis
+# Netflix Movies and TV Shows Analysis
 
 An exploratory data analysis (EDA) project on Netflix's content library using Python and data visualization tools to uncover trends in movies and TV shows available as of 2021.
 
@@ -18,7 +18,7 @@ The goal is to extract actionable insights and visualize content patterns on Net
 
 
 ## Dataset
-⚠️ Note: The dataset is not included in this repository due to size/licensing reasons.
+ Note: The dataset is not included in this repository due to size/licensing reasons.
 - Source: [Kaggle - Netflix Movies and TV Shows](https://www.kaggle.com/datasets/shivamb/netflix-shows)
 - Rows: 8,807
 - Columns: 12 (title, cast, director, release year, rating, genre, country, etc.)
